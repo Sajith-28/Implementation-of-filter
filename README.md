@@ -1,4 +1,6 @@
 # Implementation-of-filter
+## Developed By   : SAJITH AHAMED F
+## Register Number: 212223240144
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -36,8 +38,7 @@ Display the original, smoothed, and sharpened images side-by-side using matplotl
 </br> 
 
 ## Program:
-### Developed By   : SAJITH AHAMED F
-### Register Number: 212223240144
+
 </br>
 
 ### 1. Smoothing Filters
