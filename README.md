@@ -212,11 +212,9 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 
-
 <img width="753" height="275" alt="image" src="https://github.com/user-attachments/assets/f1419ff9-7f11-4819-9771-0cf702cf749b" />
 
 ii) Using Laplacian Operator
-
 
 <img width="754" height="247" alt="image" src="https://github.com/user-attachments/assets/21169d70-e190-410e-aabe-565a78a86f26" />
 
